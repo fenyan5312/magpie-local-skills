@@ -1,0 +1,24 @@
+timezone: Asia/Shanghai
+learners:
+  - id: wangxinjie
+    name: 王新杰
+  - id: qizeran
+    name: 郄泽然
+schedule:
+  morning_plan: "08:00"
+  noon_alignment: "12:00"
+  afternoon_alignment: "14:30"
+  evening_close: "20:30"
+  weekly_review: "Sunday 21:00"
+granularity:
+  - 学科
+  - 章节
+  - 知识点
+  - 任务
+outline:
+  preferred_year: 2027
+  fallback_year: 2026
+  official_section: https://www.hebeea.edu.cn/ptzsb/
+relationship:
+  partners: true
+  message_tone: warm_direct_supportive

@@ -1,0 +1,11 @@
+{
+  "subject": "测试学科",
+  "year": 2026,
+  "fallback_used": true,
+  "official_page": "https://www.hebeea.edu.cn/c/2025-12-29/490705.html",
+  "official_attachment": "https://file.hebeea.edu.cn/files/article/2025/12/20251226093908_630.pdf",
+  "published_at": "2025-12-29",
+  "checked_at": "2026-10-08T08:00:00+08:00",
+  "status": "fallback_confirmed",
+  "notes": "TEST ONLY: 2026 official fallback fixture."
+}

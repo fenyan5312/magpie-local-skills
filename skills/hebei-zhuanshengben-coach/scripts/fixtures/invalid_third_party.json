@@ -1,0 +1,11 @@
+{
+  "subject": "测试学科",
+  "year": 2027,
+  "fallback_used": false,
+  "official_page": "https://example.com/fake-outline",
+  "official_attachment": "https://example.com/fake.pdf",
+  "published_at": "2026-10-01",
+  "checked_at": "2026-10-08T08:00:00+08:00",
+  "status": "confirmed",
+  "notes": "TEST ONLY: must be rejected."
+}

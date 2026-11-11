@@ -1,0 +1,6 @@
+interface:
+  display_name: "河北专升本备考教练"
+  short_description: "按官方考纲生成每日任务，四次对齐双人进度并自动复盘"
+  default_prompt: "使用 $hebei-zhuanshengben-coach 动态核验考纲并生成今天的学习任务。"
+policy:
+  allow_implicit_invocation: true
